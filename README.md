@@ -3,7 +3,7 @@
 
 ## Features:
 1. `Good Speed (can go faster but i don't recommend it)`
-2. `Built-in Captcha Solver"`
+2. `Built-in Captcha Solver`
 3. `Simple & Easy to Run`
 4. `Add Any PFP And Bio's for Them`
 5. `Hypesquad Enabler if you want`
@@ -29,4 +29,4 @@
 
 # Disclaimer
 
-This is tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party.
+I am not responsible for anything that may happen, This is tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party.
